@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Libreria_Facturacion.Domain
 {
-    internal class InvoiceDetail
+    public class InvoiceDetail
     {
+        public int Id { get; set; }
+        public int Quantity { get; set; }
+        public int InvoiceId { get; set; }
+        public Product Product { get; set; }
+
+
+        public override string ToString()
+        {
+            return $@"Detail Id: {Id} - Product: {Product.Name} - Unit Price: ${Product.UnitPrice} - Quantity: {Quantity}";
+        }
+
     }
 }

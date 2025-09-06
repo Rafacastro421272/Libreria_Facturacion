@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\data\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,40 +19,40 @@
       "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:data\\implementations\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\data\\utils\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:data\\utils\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\data\\interfaces\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:data\\interfaces\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\data\\utils\\spparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:data\\utils\\spparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:data\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\domain\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:domain\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\domain\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:domain\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\data\\utils\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:data\\utils\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\domain\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:domain\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\libreria_facturacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:libreria_facturacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\domain\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:domain\\invoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\domain\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:domain\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\data\\utils\\spparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3AF0BF3-7D81-4A45-955E-AE46D160388A}|Libreria_Facturacion.csproj|solutionrelative:data\\utils\\spparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Implementations\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Implementations\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Implementations\\ProductRepository.cs",
-              "RelativeToolTip": "Data\\Implementations\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:32:37.896Z",
+              "WhenOpened": "2025-09-06T00:41:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Service\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "Service\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Service\\InvoiceService.cs",
+              "RelativeToolTip": "Service\\InvoiceService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:41:09.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InvoiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Implementations\\InvoiceRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Implementations\\InvoiceRepository.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Implementations\\InvoiceRepository.cs",
-              "RelativeToolTip": "Data\\Implementations\\InvoiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "Data\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:32:17.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Data\\Utils\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\UnitOfWork.cs",
-              "RelativeToolTip": "Data\\Utils\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:31:46.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "Data\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:31:21.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IInvoiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Interfaces\\IInvoiceRepository.cs",
-              "RelativeDocumentMoniker": "Data\\Interfaces\\IInvoiceRepository.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Interfaces\\IInvoiceRepository.cs",
-              "RelativeToolTip": "Data\\Interfaces\\IInvoiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:29:00.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SPParameter.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\SPParameter.cs",
-              "RelativeDocumentMoniker": "Data\\Utils\\SPParameter.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\SPParameter.cs",
-              "RelativeToolTip": "Data\\Utils\\SPParameter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:24:39.564Z",
+              "WhenOpened": "2025-09-06T00:06:32.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DataHelper.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\DataHelper.cs",
-              "RelativeDocumentMoniker": "Data\\Utils\\DataHelper.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\DataHelper.cs",
-              "RelativeToolTip": "Data\\Utils\\DataHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:21:11.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\Product.cs",
-              "RelativeDocumentMoniker": "Domain\\Product.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\Product.cs",
-              "RelativeToolTip": "Domain\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:20:35.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PaymentMethod.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\PaymentMethod.cs",
-              "RelativeDocumentMoniker": "Domain\\PaymentMethod.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\PaymentMethod.cs",
-              "RelativeToolTip": "Domain\\PaymentMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:18:24.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InvoiceDetail.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\InvoiceDetail.cs",
-              "RelativeDocumentMoniker": "Domain\\InvoiceDetail.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\InvoiceDetail.cs",
-              "RelativeToolTip": "Domain\\InvoiceDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:18:04.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Invoice.cs",
               "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\Invoice.cs",
               "RelativeDocumentMoniker": "Domain\\Invoice.cs",
               "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\Invoice.cs",
               "RelativeToolTip": "Domain\\Invoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:17:32.902Z",
+              "WhenOpened": "2025-09-06T00:04:44.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Implementations\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Implementations\\InvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Implementations\\InvoiceRepository.cs",
+              "RelativeToolTip": "Data\\Implementations\\InvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:06:30.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Data\\Utils\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\UnitOfWork.cs*",
+              "RelativeToolTip": "Data\\Utils\\UnitOfWork.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:53:33.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Data\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Data\\Utils\\DataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:55:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Interfaces\\IInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Interfaces\\IInvoiceRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IInvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:04:41.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceDetail.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\InvoiceDetail.cs",
+              "RelativeDocumentMoniker": "Domain\\InvoiceDetail.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\InvoiceDetail.cs",
+              "RelativeToolTip": "Domain\\InvoiceDetail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:05:07.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Domain\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\PaymentMethod.cs",
+              "RelativeToolTip": "Domain\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:05:23.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Domain\\Product.cs",
+              "RelativeToolTip": "Domain\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:05:37.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Libreria_Facturacion",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Libreria_Facturacion.csproj",
-              "RelativeDocumentMoniker": "Libreria_Facturacion.csproj",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Libreria_Facturacion.csproj",
-              "RelativeToolTip": "Libreria_Facturacion.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-05T23:06:31.2Z",
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:04:20.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpParameter.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\SpParameter.cs",
+              "RelativeDocumentMoniker": "Data\\Utils\\SpParameter.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\Data\\Utils\\SpParameter.cs*",
+              "RelativeToolTip": "Data\\Utils\\SpParameter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:57:05.184Z",
               "EditorCaption": ""
             },
             {

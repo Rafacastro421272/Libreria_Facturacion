@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Libreria_Facturacion.Data.Utils
 {
-    internal class SPParameter
+    public class SpParameter
     {
+        public string Name { get; set; }
+        public object Value { get; set; }
     }
 }
