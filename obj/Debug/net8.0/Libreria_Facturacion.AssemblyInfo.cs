@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Libreria_Facturacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bfe20ddd9e6fb48b43f95acf349b50b5aa11043")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08fbe759ce3fe0be20f70cc652f2409a9e0da1a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Libreria_Facturacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Libreria_Facturacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
