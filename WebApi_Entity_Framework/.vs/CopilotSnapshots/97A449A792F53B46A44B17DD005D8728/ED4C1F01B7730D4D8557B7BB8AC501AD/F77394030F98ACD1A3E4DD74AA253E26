@@ -1,0 +1,28 @@
+﻿using WebApi_Entity_Framework.Data.Models;
+
+namespace WebApi_Entity_Framework.Models.Dto
+{
+    public class FacturaDto
+    {
+        public int NroFactura { get; set; }
+        public DateOnly Fecha { get; set; }
+        public string Cliente { get; set; }
+        public int IdFormaPago { get; set; }
+        public FormaPagoDto FormaPago { get; set; }
+        public bool Activo { get; set; }
+        public List<DetalleFacturaDto> Detalles { get; set; }
+
+        public static FacturaDto FromEntity(Factura f)
+        {
+            return new FacturaDto
+            {
+                NroFactura = f.NroFactura,
+                Fecha = f.Fecha,
+                Cliente = f.Cliente,
+                IdFormaPago = f.IdFormaPago,
+                FormaPago = FormaPagoDto.FromEntity(f.IdFormaPagoNavigation), 
+                Activo = f.Activo
+            };
+        }
+    }
+}

@@ -11,7 +11,7 @@ namespace Libreria_Facturacion.Domain
         public int Id { get; set; }
         public string Name { get; set; }
         public decimal UnitPrice { get; set; }
-        public bool Status { get; set; }
+        public bool Status { get; set; } = true;
 
         public override string ToString()
         {

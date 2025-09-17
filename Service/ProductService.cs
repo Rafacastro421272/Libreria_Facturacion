@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Libreria_Facturacion.Service
 {
-    public class ProductService
+    public class ProductService : IProductService
     {
         private IProductRepository _repository;
         public ProductService()

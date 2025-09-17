@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\dto\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:dto\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\dto\\detallefacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:dto\\detallefacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\dto\\formapagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:dto\\formapagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\service\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:service\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\models\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:models\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\models\\facturaciondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:models\\facturaciondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\data\\repositoryef\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:data\\repositoryef\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\data\\repositoryef\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:data\\repositoryef\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\libreria_facturacion\\webapi_entity_framework\\data\\repositoryef\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FB67B6B-57C1-450C-8A6B-E72AA93D22CA}|WebApi_Entity_Framework.csproj|solutionrelative:data\\repositoryef\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:53:35.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:53:22.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Service\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "Service\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Service\\InvoiceService.cs",
+              "RelativeToolTip": "Service\\InvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:53:20.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Service\\IInvoiceService.cs",
+              "RelativeDocumentMoniker": "Service\\IInvoiceService.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Service\\IInvoiceService.cs",
+              "RelativeToolTip": "Service\\IInvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:53:19.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FacturacionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Models\\FacturacionDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\FacturacionDbContext.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Models\\FacturacionDbContext.cs",
+              "RelativeToolTip": "Models\\FacturacionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:51:17.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "Models\\DetalleFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:51:10.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Models\\Articulo.cs",
+              "RelativeToolTip": "Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:51:14.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Models\\FormaPago.cs",
+              "RelativeDocumentMoniker": "Models\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Models\\FormaPago.cs",
+              "RelativeToolTip": "Models\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:51:13.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Models\\Factura.cs",
+              "RelativeToolTip": "Models\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:51:11.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Data\\RepositoryEF\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryEF\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Data\\RepositoryEF\\IProductRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryEF\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:45:25.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaDto.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Dto\\FacturaDto.cs",
+              "RelativeDocumentMoniker": "Dto\\FacturaDto.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Dto\\FacturaDto.cs",
+              "RelativeToolTip": "Dto\\FacturaDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:45:28.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Data\\RepositoryEF\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryEF\\InvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Data\\RepositoryEF\\InvoiceRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryEF\\InvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:45:24.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Data\\RepositoryEF\\IInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryEF\\IInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Data\\RepositoryEF\\IInvoiceRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryEF\\IInvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:45:23.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormaPagoDto.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Dto\\FormaPagoDto.cs",
+              "RelativeDocumentMoniker": "Dto\\FormaPagoDto.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Dto\\FormaPagoDto.cs",
+              "RelativeToolTip": "Dto\\FormaPagoDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:45:12.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleFacturaDto.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Dto\\DetalleFacturaDto.cs",
+              "RelativeDocumentMoniker": "Dto\\DetalleFacturaDto.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Dto\\DetalleFacturaDto.cs",
+              "RelativeToolTip": "Dto\\DetalleFacturaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:45:11.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticuloDto.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Dto\\ArticuloDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ArticuloDto.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\Libreria_Facturacion\\WebApi_Entity_Framework\\Dto\\ArticuloDto.cs",
+              "RelativeToolTip": "Dto\\ArticuloDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAywCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T20:40:24.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

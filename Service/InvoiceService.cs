@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace Libreria_Facturacion.Service
 {
 
-    public class InvoiceService
+    public class InvoiceService : IInvoiceService
     {
         private IInvoiceRepository _repository;
         public InvoiceService()

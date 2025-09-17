@@ -12,7 +12,7 @@ namespace Libreria_Facturacion.Domain
         public string Customer { get; set; }
         public DateTime Date { get; set; }
         public PaymentMethod PaymentMethod { get; set; }
-        public bool Status { get; set; }
+        public bool Status { get; set; } = true;
         public List<InvoiceDetail> Details { get; set; }
 
 

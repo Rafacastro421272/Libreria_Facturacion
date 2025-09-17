@@ -1,0 +1,137 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
+using WebApi_Entity_Framework.Data.Models;
+using WebApi_Entity_Framework.Data.RepositoryEF;
+using WebApi_Entity_Framework.Dto;
+using WebApi_Entity_Framework.Service;
+
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+
+namespace WebApi_Entity_Framework.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
+    public class InvoiceController : ControllerBase
+    {
+        private IInvoiceService _service;
+
+        public InvoiceController(IInvoiceService service)
+        {
+            _service = service;
+        }
+
+        // GET: api/<InvoiceController>
+        [HttpGet]
+        public async Task<IActionResult> GetAll()
+        {
+            try
+            {
+                var facturas = await _service.GetAllAsync();
+                var facturasDto = facturas.Select(FacturaDto.FromEntity).ToList();
+                return Ok(facturasDto);
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Ha ocurrido un error interno!");
+            }
+        }
+
+        // GET api/<InvoiceController>/5
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
+        {
+            try
+            {
+                var factura = await _service.GetByIdAsync(id);
+                if (factura != null)
+                {
+                    var facturaDto = FacturaDto.FromEntity(factura);
+                    return Ok(facturaDto);
+                }
+                else
+                {
+                    return StatusCode(404, "Factura inexistente!");
+                }
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Ha ocurrido un error interno!");
+            }
+        }
+
+        // POST api/<InvoiceController>
+        [HttpPost]
+        public async Task<IActionResult> Post([FromBody] FacturaDto facturaDto)
+        {
+            try
+            {
+                var factura = FacturaDto.ToEntity(facturaDto);
+                if (isValid(factura))
+                {
+                    await _service.CreateAsync(factura);
+                    return Ok("Factura creada!");
+                }
+                else
+                {
+                    return BadRequest("Datos ingresados no válidos o incompletos!");
+                }
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Ha ocurrido un error interno!");
+            }
+        }
+
+        private bool isValid(Factura factura)
+        {
+            return !string.IsNullOrEmpty(factura.Cliente) &&
+                   factura.IdFormaPago != 0;
+        }
+
+        // PUT api/<InvoiceController>/5
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Put(int id, [FromBody] FacturaDto facturaDto)
+        {
+            try
+            {
+                var factura = FacturaDto.ToEntity(facturaDto);
+                if (id != 0 && id == factura.NroFactura && isValid(factura))
+                {
+                    await _service.UpdateAsync(id, factura);
+                    return Ok("Factura modificada!");
+                }
+                else
+                {
+                    return BadRequest("Datos ingresados incorrectos!");
+                }
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Ha ocurrido un error interno!");
+            }
+        }
+
+        // DELETE api/<InvoiceController>/5
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            try
+            {
+                if (id != 0)
+                {
+                    await _service.DeleteAsync(id);
+                    return Ok("Factura eliminada!");
+                }
+                else
+                {
+                    return BadRequest("Factura inexistente!");
+                }
+            }
+            catch (Exception)
+            {
+                return StatusCode(500, "Ha ocurrido un error interno!");
+            }
+        }
+    }
+}

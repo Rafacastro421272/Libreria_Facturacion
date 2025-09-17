@@ -1,0 +1,32 @@
+﻿using WebApi_Entity_Framework.Data.Models;
+
+namespace WebApi_Entity_Framework.Dto
+{
+    public class DetalleFacturaDto
+    {
+        public int IdDetalleFactura { get; set; }
+        public int Cantidad { get; set; }
+        public int IdArticulo { get; set; }
+        public ArticuloDto? Articulo { get; set; }
+
+        public static DetalleFacturaDto FromEntity(DetalleFactura d)
+        {
+            return new DetalleFacturaDto
+            {
+                IdDetalleFactura = d.IdDetalleFactura,
+                IdArticulo = d.IdArticulo,
+                Articulo = d.IdArticuloNavigation != null ? ArticuloDto.FromEntity(d.IdArticuloNavigation) : null,
+                Cantidad = d.Cantidad
+            };
+        }
+
+        public static DetalleFactura ToEntity(DetalleFacturaDto dto)
+        {
+            return new DetalleFactura
+            {
+                Cantidad = dto.Cantidad,
+                IdArticulo = dto.IdArticulo
+            };
+        }
+    }
+}

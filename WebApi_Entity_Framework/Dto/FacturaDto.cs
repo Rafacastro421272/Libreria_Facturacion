@@ -1,0 +1,48 @@
+﻿using WebApi_Entity_Framework.Data.Models;
+using System.Linq;
+
+namespace WebApi_Entity_Framework.Dto
+{
+    public class FacturaDto
+    {
+        public int NroFactura { get; set; }
+        public DateOnly Fecha { get; set; }
+        public string Cliente { get; set; } = string.Empty;
+        public int IdFormaPago { get; set; }
+        public FormaPagoDto FormaPago { get; set; }
+        public bool Activo { get; set; }
+        public List<DetalleFacturaDto> Detalles { get; set; }
+
+        public static FacturaDto FromEntity(Factura f)
+        {
+            return new FacturaDto
+            {
+                NroFactura = f.NroFactura,
+                Fecha = f.Fecha,
+                Cliente = f.Cliente,
+                IdFormaPago = f.IdFormaPago,
+                FormaPago = f.IdFormaPagoNavigation != null ? FormaPagoDto.FromEntity(f.IdFormaPagoNavigation) : null,
+                Activo = f.Activo,
+                Detalles = f.Detallesfacturas?.Select(DetalleFacturaDto.FromEntity).ToList() ?? new List<DetalleFacturaDto>()
+            };
+        }
+
+        public static Factura ToEntity(FacturaDto dto)
+        {
+            return new Factura
+            {
+                NroFactura = dto.NroFactura,
+                Fecha = dto.Fecha,
+                Cliente = dto.Cliente,
+                IdFormaPago = dto.IdFormaPago,
+                Activo = true, // Inicializa Activo en true
+                Detallesfacturas = dto.Detalles?.Select(d => {
+                    var detalle = DetalleFacturaDto.ToEntity(d);
+                    // Asigna NroFactura si es necesario
+                    detalle.NroFactura = dto.NroFactura;
+                    return detalle;
+                }).ToList() ?? new List<DetalleFactura>()
+            };
+        }
+    }
+}

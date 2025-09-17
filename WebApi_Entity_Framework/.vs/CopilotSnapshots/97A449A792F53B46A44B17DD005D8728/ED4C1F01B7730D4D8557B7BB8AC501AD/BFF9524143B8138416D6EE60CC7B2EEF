@@ -1,0 +1,29 @@
+﻿using WebApi_Entity_Framework.Data.Models;
+
+namespace WebApi_Entity_Framework.Models.Dto
+{
+    public class FormaPagoDto
+    {
+        public int IdFormaPago { get; set; }
+
+        public string Nombre { get; set; }
+
+        public static FormaPagoDto FromEntity(FormaPago fp)
+        {
+            return new FormaPagoDto
+            {
+                IdFormaPago = fp.IdFormaPago,
+                Nombre = fp.Nombre,
+            };
+        }
+
+        public static FormaPago ToEntity(FormaPagoDto dto)
+        {
+            return new FormaPago
+            {
+                IdFormaPago = dto.IdFormaPago,
+                Nombre = dto.Nombre
+            };
+        }
+    }
+}
